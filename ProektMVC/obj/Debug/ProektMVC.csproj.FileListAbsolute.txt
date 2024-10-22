@@ -1,0 +1,3 @@
+C:\програма\ProektMVC\ProektMVC\obj\Debug\ProektMVC.csproj.AssemblyReference.cache
+C:\програма\ProektMVC\ProektMVC\obj\Debug\ProektMVC.csproj.SuggestedBindingRedirects.cache
+C:\програма\ProektMVC\ProektMVC\obj\Debug\ProektMVC.csproj.CoreCompileInputs.cache
